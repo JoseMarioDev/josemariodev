@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 | Cloud                 | AWS (EC2, S3, Lambda, API Gateway), Terraform, Jenkins, Ansible, CircleCI |
 | Tools                 | Git, VSCode, Agile, Scrum                                                 |
 
-### Projects:
+### Projects 👯
 
 #### ReVitalize
 
