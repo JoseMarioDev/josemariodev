@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 ### Skills 💭
 
+#
+
 | Technical             |                                                                           |
 | --------------------- | ------------------------------------------------------------------------- |
 | Programming Languages | Python, JavaScript                                                        |
@@ -34,6 +36,8 @@ Here are some ideas to get you started:
 | Tools                 | Git, VSCode, Agile, Scrum                                                 |
 
 ### Projects 👯
+
+#
 
 #### ReVitalize
 
@@ -59,6 +63,8 @@ rate and add films to their private collection.
 **_Past._** Majestic Star Casino
 
 ### Certifications
+
+#
 
 - AWS Certified Solutions Architect Associate
 - CompTIA Network +
