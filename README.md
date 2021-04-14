@@ -39,28 +39,35 @@ Here are some ideas to get you started:
 
 ### Projects 🔭
 
-#### - ReVitalize
-
-Crowdfunding application connecting tradesmen with older buildings needing repair
+#### ReVitalize
 
 ##### **React | GraphQL | Apollo | SASS**
 
+- Crowdfunding application connecting tradesmen with older buildings needing repair
 - Collaborated remotely with a team of 5 Web Developers and 2 UX/UI designers to build a fully functional web application
 - Learned Apollo and built several forms handling state management
 
-#### - MovieBase
-
-A React web application that allows horror movie fans to
-rate and add films to their private collection.
+#### MovieBase
 
 ##### **JavaScript | React | AWS S3, CloudFront | CirceCI | Terraform | Sentry**
 
 - Database of popular movies, television shows, and reviews
+
 #
+
 ### Work ⏰
 
-**_Present._** [Lambda School](<https://en.wikipedia.org/wiki/ADP_(company)>), Team Lead ||  
-**_Past._** Majestic Star Casino
+#### Lambda School
+
+##### **Team Lead**
+
+- Mentored group of students in CS fundamentals
+
+#### Majestic Star Casino
+
+##### **Supervisor**
+
+- Poker room supervisor
 
 #
 
