@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 | Databases             | MySQL, OracleDB, DynamoDB, Redis                                          |
 | Cloud                 | AWS (EC2, S3, Lambda, API Gateway), Terraform, Jenkins, Ansible, CircleCI |
 | Tools                 | Git, VSCode, Agile, Scrum                                                 |
-
+#
 ### Projects 🔭
 
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 Crowdfunding application connecting tradesmen with older buildings needing repair
 
-**React | GraphQL | Apollo | SASS **
+**React | GraphQL | Apollo | SASS**
 
 - Collaborated remotely with a team of 5 Web Developers and 2 UX/UI designers to build a fully functional web application
 - Learned Apollo and built several forms handling state management
