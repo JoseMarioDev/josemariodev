@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm a cloud certified developer in Chicago with an interest in full-stack development. I specialize in JavaScript, Python, and Cloud technologies. I'm a graduate of Lambda School. I was enrolled in the web development program where I learned web development and CS fundamentals by working in teams to build real world projects.
+I'm a cloud certified developer in Chicago with an interest in full-stack development. I specialize in JavaScript, Python, and Cloud technologies. I'm a graduate of Lambda School. I was enrolled in the web development program where I learned web development and CS fundamentals by working in teams to build real world projects.  
 
-I have over 10 years experience in the insurance and service industries in a management capacity. Over that time I've developed critical-thinking, organizational, and communication skills. I’m interested in combining these skills with software development technologies to work on projects I'm passionate about.
+I have over 10 years experience in the insurance and service industries in a management capacity. Over that time I've developed critical-thinking, organizational, and communication skills. I’m interested in combining these skills with software development technologies to work on projects I'm passionate about.  
 
-I’m looking for an opportunity where I can put my abilities to work for a mission I’m passionate about.
+I’m looking for an opportunity where I can put my abilities to work for a mission I’m passionate about.  
 Check out my portfolio. https://www.josemario.dev/
-
+#
 <!--
 **josemariodev/josemariodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Skills 💭
 
-#
+
 
 | Technical             |                                                                           |
 | --------------------- | ------------------------------------------------------------------------- |
@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 | Cloud                 | AWS (EC2, S3, Lambda, API Gateway), Terraform, Jenkins, Ansible, CircleCI |
 | Tools                 | Git, VSCode, Agile, Scrum                                                 |
 
-### Projects 👯
+### Projects 🔭
 
-#
+
 
 #### ReVitalize
 
@@ -61,14 +61,15 @@ rate and add films to their private collection.
 
 **_Present._** [Lambda School](<https://en.wikipedia.org/wiki/ADP_(company)>), Team Lead ||  
 **_Past._** Majestic Star Casino
-
+#
 ### Certifications
 
-#
 
 - AWS Certified Solutions Architect Associate
 - CompTIA Network +
 - CompTIA A +
+#
+
 
 **Find me online:**
 
