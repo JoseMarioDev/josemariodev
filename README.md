@@ -56,7 +56,7 @@ rate and add films to their private collection.
 ##### **JavaScript | React | AWS S3, CloudFront | CirceCI | Terraform | Sentry**
 
 - Database of popular movies, television shows, and reviews
-
+#
 ### Work ⏰
 
 **_Present._** [Lambda School](<https://en.wikipedia.org/wiki/ADP_(company)>), Team Lead ||  
@@ -72,7 +72,7 @@ rate and add films to their private collection.
 
 #
 
-### **Find me online:**
+### **Find me online**
 
 [![Twitter: josemariodev](https://img.shields.io/twitter/follow/josemariodev?style=social)](https://twitter.com/josemariodev)
 [![Linkedin: josemariodev](https://img.shields.io/badge/-josemariodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josemariodev/)](https://www.linkedin.com/in/ocasio-perez/)
