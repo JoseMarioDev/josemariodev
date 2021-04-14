@@ -5,7 +5,7 @@ I'm a cloud certified developer in Chicago with an interest in full-stack develo
 I have over 10 years experience in the insurance and service industries in a management capacity. Over that time I've developed critical-thinking, organizational, and communication skills. I’m interested in combining these skills with software development technologies to work on projects I'm passionate about.
 
 I’m looking for an opportunity where I can put my abilities to work for a mission I’m passionate about.  
-Check out my portfolio &nbsp;:globe_with_meridians:&nbsp;&nbsp; https://www.josemario.dev/
+Check out my portfolio :globe_with_meridians:&nbsp;&nbsp; https://www.josemario.dev/
 
 #
 
@@ -50,11 +50,11 @@ Here are some ideas to get you started:
 - Built front-end views using React and Sass with fully responsive design
 - Leveraged The Movie DB's API to deliver movie data to the front-end
 
-#### josemario.dev &nbsp;&bull;&nbsp; JavaScript | React | AWS S3, CloudFront, Lambda, DynamoDB | CirceCI | Terraform &nbsp; :globe_with_meridians:&nbsp;&nbsp;[website](https://www.josemario.dev) :octocat:&nbsp;[github](http://www.github.com/josemariodev/josemariodev-portfolio)
+#### josemario.dev &nbsp;&bull;&nbsp; JavaScript | React | AWS | CirceCI | Terraform &nbsp; :globe_with_meridians:&nbsp;&nbsp;[website](https://www.josemario.dev) :octocat:&nbsp;[github](http://www.github.com/josemariodev/josemariodev-portfolio)
 
 - Portfolio website with detailed information about my projects and work history
 - Built front-end views using React and Sass with fully responsive design
-- Using AWS services and CircleCI for CI/CD
+- Using AWS S3, CloudFront, Lambda, DynamoDB, and CircleCI for CI/CD
 
 #
 
