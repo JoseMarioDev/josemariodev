@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Skills 💭
+### Skills &nbsp;🌱
 
 | Technical             |                                                                           |
 | --------------------- | ------------------------------------------------------------------------- |
@@ -37,41 +37,33 @@ Here are some ideas to get you started:
 
 #
 
-### Projects 🔭
+### Projects &nbsp; 🔭
 
-#### ReVitalize
-
-##### **React | GraphQL | Apollo | SASS**
+#### ReVitalize &nbsp;|&nbsp;&nbsp; React | GraphQL | Apollo | SASS
 
 - Crowdfunding application connecting tradesmen with older buildings needing repair
 - Collaborated remotely with a team of 5 Web Developers and 2 UX/UI designers to build a fully functional web application
 - Learned Apollo and built several forms handling state management
 
-#### MovieBase
-
-##### **JavaScript | React | AWS S3, CloudFront | CirceCI | Terraform | Sentry**
+#### MovieBase &nbsp;|&nbsp;&nbsp; JavaScript | React | AWS S3, CloudFront | CirceCI | Terraform | Sentry
 
 - Database of popular movies, television shows, and reviews
 
 #
 
-### Work ⏰
+### Work &nbsp; ⏰
 
-#### Lambda School
-
-##### **Team Lead**
+#### Lambda School &nbsp;|&nbsp;&nbsp;Team Lead
 
 - Mentored group of students in CS fundamentals
 
-#### Majestic Star Casino
+#### Majestic Star Casino &nbsp;|&nbsp;&nbsp; Supervisor
 
 ##### **Supervisor**
 
-- Poker room supervisor
-
 #
 
-### Certifications
+### Certifications &nbsp;⚡
 
 - AWS Certified Solutions Architect Associate
 - CompTIA Network +
@@ -79,7 +71,7 @@ Here are some ideas to get you started:
 
 #
 
-### **Find me online**
+### **Find me online &nbsp; 📫 **
 
 [![Twitter: josemariodev](https://img.shields.io/twitter/follow/josemariodev?style=social)](https://twitter.com/josemariodev)
 [![Linkedin: josemariodev](https://img.shields.io/badge/-josemariodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josemariodev/)](https://www.linkedin.com/in/josemariodev/)
