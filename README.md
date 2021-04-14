@@ -5,7 +5,7 @@ I'm a cloud certified developer in Chicago with an interest in full-stack develo
 I have over 10 years experience in the insurance and service industries in a management capacity. Over that time I've developed critical-thinking, organizational, and communication skills. I’m interested in combining these skills with software development technologies to work on projects I'm passionate about.
 
 I’m looking for an opportunity where I can put my abilities to work for a mission I’m passionate about.  
-Check out my portfolio -> https://www.josemario.dev/
+Check out my portfolio &#8594; https://www.josemario.dev/
 
 #
 
@@ -39,15 +39,16 @@ Here are some ideas to get you started:
 
 ### Projects &nbsp; 🔭
 
-#### ReVitalize &nbsp;|&nbsp;&nbsp; React | GraphQL | Apollo | SASS
+#### ReVitalize &nbsp; &bull; &nbsp;&nbsp; React | GraphQL | Apollo | SASS
 
-- Crowdfunding application connecting tradesmen with older buildings needing repair
-- Collaborated remotely with a team of 5 Web Developers and 2 UX/UI designers to build a fully functional web application
-- Learned Apollo and built several forms handling state management
+- Created home and about pages using React, Sass, and accounting for responsiveness design
+- Built user dashboard functionality in React while considering user requirements
 
-#### MovieBase &nbsp;|&nbsp;&nbsp; JavaScript | React | AWS S3, CloudFront | CirceCI | Terraform | Sentry
+#### MovieBase &nbsp;&bull;&nbsp;&nbsp; JavaScript | React | AWS S3, CloudFront | CirceCI | Terraform | Sentry
 
 - Database of popular movies, television shows, and reviews
+- Built front-end views using React and Sass with fully responsive design
+- Leveraged The Movie DB's API to deliver movie data to the front-end
 
 #
 
@@ -55,11 +56,15 @@ Here are some ideas to get you started:
 
 #### Lambda School &nbsp;|&nbsp;&nbsp;Team Lead
 
-- Mentored group of students in CS fundamentals
+- Mentor students on how to learn effectively and solve programming problems
+- Reinforce technical concepts by facilitating small group study sessions and 1:1 daily check-ins
+- Provide daily live code reviews and lead feedback sessions on code improvements, readability, and best practices
 
 #### Majestic Star Casino &nbsp;|&nbsp;&nbsp; Supervisor
 
-##### **Supervisor**
+- Managed daily operation of 21 table poker room including satisfying guests needs to maximize repeat business
+- Handled the scheduling of 20 employees ensuring appropriate stang levels
+- Instructed a training class of 10 new employees on policy and procedures and ensured they were competent on industry standards and customer service expectations
 
 #
 
@@ -71,7 +76,7 @@ Here are some ideas to get you started:
 
 #
 
-### **Find me online &nbsp; 📫 **
+### Find me online &nbsp; 📫
 
 [![Twitter: josemariodev](https://img.shields.io/twitter/follow/josemariodev?style=social)](https://twitter.com/josemariodev)
 [![Linkedin: josemariodev](https://img.shields.io/badge/-josemariodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josemariodev/)](https://www.linkedin.com/in/josemariodev/)
