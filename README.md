@@ -5,7 +5,7 @@ I'm a cloud certified developer in Chicago with an interest in full-stack develo
 I have over 10 years experience in the insurance and service industries in a management capacity. Over that time I've developed critical-thinking, organizational, and communication skills. I’m interested in combining these skills with software development technologies to work on projects I'm passionate about.
 
 I’m looking for an opportunity where I can put my abilities to work for a mission I’m passionate about.  
-Check out my portfolio &#8594; https://www.josemario.dev/
+Check out my portfolio &nbsp;➡️ &nbsp; https://www.josemario.dev/
 
 #
 
@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 ### Projects &nbsp; 🔭
 
 #### ReVitalize &nbsp; &bull; &nbsp;&nbsp; React | GraphQL | Apollo | SASS
+
+:globe_with_meridians:https://revitalizecommunity.netlify.app/
 
 - Created home and about pages using React, Sass, and accounting for responsiveness design
 - Built user dashboard functionality in React while considering user requirements
