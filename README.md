@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 
 ### Projects &nbsp; 🔭
 
-#### ReVitalize &nbsp; &bull; &nbsp;&nbsp; React | GraphQL | Apollo | SASS
+#### ReVitalize &nbsp; &bull; &nbsp;&nbsp; React | GraphQL | Apollo | SASS &nbsp; :globe_with_meridians:&nbsp;[website](https://revitalizecommunity.netlify.app/) :octocat:&nbsp;[github](http://www.github.com/Revitalized-Playground)
 
-:globe_with_meridians: [website](https://revitalizecommunity.netlify.app/) :octocat: [github](http://www.github.com/Revitalized-Playground)
+<!-- :globe_with_meridians:&nbsp;[website](https://revitalizecommunity.netlify.app/) :octocat:&nbsp;[github](http://www.github.com/Revitalized-Playground) -->
 
 - Created home and about pages using React, Sass, and accounting for responsiveness design
 - Built user dashboard functionality in React while considering user requirements
