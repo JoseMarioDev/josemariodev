@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### Projects 🔭
 
-#### ReVitalize
+#### - ReVitalize
 
 Crowdfunding application connecting tradesmen with older buildings needing repair
 
@@ -48,7 +48,7 @@ Crowdfunding application connecting tradesmen with older buildings needing repai
 - Collaborated remotely with a team of 5 Web Developers and 2 UX/UI designers to build a fully functional web application
 - Learned Apollo and built several forms handling state management
 
-#### MovieBase
+#### - MovieBase
 
 A React web application that allows horror movie fans to
 rate and add films to their private collection.
