@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 ### **Find me online**
 
 [![Twitter: josemariodev](https://img.shields.io/twitter/follow/josemariodev?style=social)](https://twitter.com/josemariodev)
-[![Linkedin: josemariodev](https://img.shields.io/badge/-josemariodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josemariodev/)](https://www.linkedin.com/in/ocasio-perez/)
+[![Linkedin: josemariodev](https://img.shields.io/badge/-josemariodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josemariodev/)](https://www.linkedin.com/in/josemariodev/)
 [![GitHub imcodingideas](https://img.shields.io/github/followers/josemariodev?label=follow&style=social)](https://github.com/josemariodev)
 
 [![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=josemariodev&show_icons=true&theme=prussian)](https://github.com/josemariodev/github-readme-stats)
