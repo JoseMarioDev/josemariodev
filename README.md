@@ -5,7 +5,7 @@ I'm a cloud certified developer in Chicago with an interest in full-stack develo
 I have over 10 years experience in the insurance and service industries in a management capacity. Over that time I've developed critical-thinking, organizational, and communication skills. I’m interested in combining these skills with software development technologies to work on projects I'm passionate about.
 
 I’m looking for an opportunity where I can put my abilities to work for a mission I’m passionate about.  
-Check out my portfolio &nbsp;➡️ &nbsp; https://www.josemario.dev/
+Check out my portfolio &nbsp;:globe_with_meridians:&nbsp;&nbsp; https://www.josemario.dev/
 
 #
 
