@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a certified engineer in Chicago with an interest in cloud technologies & full-stack development. I specialize in JavaScript, Python, and AWS services. I'm a graduate of Lambda School, where I enrolled in the web development program & learned software development and CS fundamentals by working in teams to build real world projects.
+I'm a certified engineer in Chicago with an interest in cloud technologies & full-stack development. I specialize in JavaScript, Python, and AWS services. I'm a graduate of [Lambda School's web development program](https://www.lambdaschool.com), where I learned software development and CS fundamentals by working in teams to build real world projects.
 
 I have over 10 years experience in the insurance and service industries in a management capacity. Over that time I've developed critical-thinking, organizational, and communication skills.
 
