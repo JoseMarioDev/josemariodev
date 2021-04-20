@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - Built front-end views using React and Sass with fully responsive design
 - Leveraged The Movie DB's API to deliver movie data to the front-end
 
-#### josemario.dev &nbsp;&bull;&nbsp; JavaScript | React | AWS | CirceCI | Terraform &nbsp; :globe_with_meridians:&nbsp;&nbsp;[website](https://www.josemario.dev) :octocat:&nbsp;[github](http://www.github.com/josemariodev/josemariodev-portfolio)
+#### josemario.me &nbsp;&bull;&nbsp; JavaScript | React | AWS | CirceCI | Terraform &nbsp; :globe_with_meridians:&nbsp;&nbsp;[website](https://www.josemario.me) :octocat:&nbsp;[github](http://www.github.com/josemariodev/josemariodev-portfolio)
 
 - Portfolio website with detailed information about my projects and work history
 - Built front-end views using React and Sass with fully responsive design
