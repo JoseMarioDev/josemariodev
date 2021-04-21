@@ -55,7 +55,8 @@ Here are some ideas to get you started:
 
 - Portfolio website with detailed information about my projects and work history
 - Built front-end views using React and Sass with fully responsive design
-- Using AWS S3, CloudFront, Lambda, DynamoDB,Terraform for IaC, and CircleCI for CI/CD
+- Using AWS S3, CloudFront,API Gateway, Lambda w/Python, DynamoDB
+- Terraform for Infrastructure-as-Code, and CircleCI for CI/CD
 
 #
 
