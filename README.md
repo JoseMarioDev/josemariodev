@@ -44,11 +44,12 @@ Here are some ideas to get you started:
 - Created home and about pages using React, Sass, and accounting for responsiveness design
 - Built user dashboard functionality in React while considering user requirements
 
-#### MovieBase &nbsp;&bull;&nbsp; JavaScript | React | AWS S3, CloudFront | CirceCI | Terraform | Sentry &nbsp; :globe_with_meridians:&nbsp;&nbsp;[website](https://www.moviebase.online) :octocat:&nbsp;[github](http://www.github.com/josemariodev/movieapp)
+#### MovieBase &nbsp;&bull;&nbsp; JavaScript | React | AWS S3, CloudFront | CirceCI | Terraform | Sentry &nbsp; :globe_with_meridians:&nbsp;&nbsp;[website](https://www.mymoviebase.com) :octocat:&nbsp;[github](http://www.github.com/josemariodev/movieapp)
 
-- Database of popular movies, television shows, and reviews
-- Built front-end views using React and Sass with fully responsive design
-- Leveraged The Movie DB's API to deliver movie data to the front-end
+- Built front-end views using ReactJS, Redux, and Sass with fully responsive design
+- following Infrastructure-as-Code model using Terraform and CircleCI
+- Leveraged The Movie DB's API to deliver movie and television data to the front-end
+- Utilized AWS Services: S3, CloudFront, API Gateway, Lambda, Python, DynamoDB
 
 #### josemario.me &nbsp;&bull;&nbsp; JavaScript | React | AWS | CirceCI | Terraform &nbsp; :globe_with_meridians:&nbsp;&nbsp;[website](https://www.josemario.me) :octocat:&nbsp;[github](http://www.github.com/josemariodev/josemariodev-portfolio)
 
