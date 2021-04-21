@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 | --------------------- | ------------------------------------------------------------------------- |
 | Programming Languages | Python, JavaScript                                                        |
 | Frontend              | HTML, CSS, ReactJS                                                        |
-| Backend               | NodeJS,REST APIs, Docker, Flask, NoSQL                                    |
+| Backend               | NodeJS,REST APIs, Docker, NoSQL                                    |
 | Databases             | MySQL, PostgreSQL, DynamoDB, RDS, Redis                                   |
-| Cloud/DevOps          | AWS (EC2, S3, Lambda, API Gateway), Terraform, Jenkins, Ansible, CircleCI |
+| Cloud/DevOps          | AWS (EC2, S3, Lambda, API Gateway), Terraform, Ansible, CircleCI |
 | Tools                 | Git, VSCode, Agile, Scrum                                                 |
 
 #
