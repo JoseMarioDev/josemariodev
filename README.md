@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 | Frontend              | HTML, CSS, ReactJS, Redux                                                        |
 | Backend               | NodeJS,REST APIs, Docker, NoSQL                                    |
 | Databases             | MySQL, PostgreSQL, DynamoDB, RDS, Redis                                   |
-| Cloud/DevOps          | AWS (EC2, S3, Lambda, API Gateway), Terraform, Ansible, CircleCI |
+| Cloud/DevOps          | AWS, Terraform, Ansible, CircleCI |
 | Tools                 | Git, VSCode, Agile, Scrum                                                 |
 
 #
