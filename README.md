@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an AWS certified professional and full-stack developer in Chicago. I specialize in JavaScript, Python, and AWS services. I'm a graduate of [Lambda School's web development program](https://www.lambdaschool.com), where I learned software development and CS fundamentals by working in teams to build real world projects.
+I'm an AWS certified professional and full-stack developer in Chicago. I specialize in JavaScript, Python, and cloud services. I'm a graduate of [Lambda School's web development program](https://www.lambdaschool.com), where I learned software development and CS fundamentals by working in teams to build real world projects.
 
 I have over 10 years experience in the insurance and service industries in a management capacity. Over that time I've developed critical-thinking, organizational, and communication skills.
 
