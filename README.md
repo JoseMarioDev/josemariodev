@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 | Technical             |                                                                           |
 | --------------------- | ------------------------------------------------------------------------- |
 | Programming Languages | Python, JavaScript                                                        |
+| Certifications        | AWS Solutions Architect Associate, Network+, A+                                                |
 | Frontend              | HTML, CSS, ReactJS                                                        |
 | Backend               | NodeJS,REST APIs, Docker, NoSQL                                    |
 | Databases             | MySQL, PostgreSQL, DynamoDB, RDS, Redis                                   |
