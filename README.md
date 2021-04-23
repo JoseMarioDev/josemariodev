@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 #### MovieBase &nbsp;&bull;&nbsp; JavaScript | React | AWS | Docker |CirceCI | Terraform | Sentry &nbsp; :globe_with_meridians:&nbsp;&nbsp;[website](https://www.mymoviebase.com) :octocat:&nbsp;[github](http://www.github.com/josemariodev/movieapp)
 
 - Built front-end views using ReactJS, Redux, and Sass with fully responsive design
-- following Infrastructure-as-Code model using Terraform, CircleCI for CI/CD, and Docker for containerization
+- Following Infrastructure-as-Code model using Terraform, CircleCI for CI/CD, and Docker for containerization
 - Leveraged The Movie DB's API to deliver movie and television data to the front-end
 - Utilized AWS Services: S3, CloudFront, API Gateway, Lambda, Python, DynamoDB
 
