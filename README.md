@@ -41,21 +41,21 @@ Here are some ideas to get you started:
 ### Projects &nbsp; 🔭
 
 
-#### MovieBase &nbsp;&bull;&nbsp; JavaScript | React | AWS | Docker |CirceCI | Terraform | Sentry &nbsp; :globe_with_meridians:&nbsp;[website](https://www.mymoviebase.com) :octocat:&nbsp;[github](http://www.github.com/josemariodev/movieapp)
+#### MovieBase &nbsp;&bull;&nbsp; JavaScript | React | AWS | Docker |CirceCI | Terraform | Sentry &nbsp; :globe_with_meridians:&nbsp;[website](https://www.mymoviebase.com) :octocat:[github](http://www.github.com/josemariodev/movieapp)
 
 - Built front-end views using ReactJS, Redux, and Sass with fully responsive design
 - Following Infrastructure-as-Code model using Terraform, CircleCI for CI/CD, and Docker for containerization
 - Leveraged The Movie DB's API to deliver movie and television data to the front-end
 - Utilized AWS Services: S3, CloudFront, API Gateway, Lambda, Python, DynamoDB
 
-#### josemario.me &nbsp;&bull;&nbsp; JavaScript | React | AWS | CirceCI | Terraform &nbsp; :globe_with_meridians:&nbsp;[website](https://www.josemario.me) :octocat:&nbsp;[github](http://www.github.com/josemariodev/josemariodev-portfolio)
+#### josemario.me &nbsp;&bull;&nbsp; JavaScript | React | AWS | CirceCI | Terraform &nbsp; :globe_with_meridians:&nbsp;[website](https://www.josemario.me) :octocat:[github](http://www.github.com/josemariodev/josemariodev-portfolio)
 
 - Portfolio website with detailed information about my projects and work history
 - Built front-end views using React and Sass with fully responsive design
 - Using AWS S3, CloudFront,API Gateway, Lambda w/Python, DynamoDB
 - Terraform for Infrastructure-as-Code, and CircleCI for CI/CD
 
-#### ReVitalize &nbsp; &bull; &nbsp; React | GraphQL | Apollo | SASS &nbsp; :globe_with_meridians:&nbsp;[website](https://revitalizecommunity.netlify.app/) :octocat:&nbsp;[github](http://www.github.com/Revitalized-Playground)
+#### ReVitalize &nbsp; &bull; &nbsp; React | GraphQL | Apollo | SASS &nbsp; :globe_with_meridians:&nbsp;[website](https://revitalizecommunity.netlify.app/) :octocat:[github](http://www.github.com/Revitalized-Playground)
 
 - Created home and about pages using React, Sass, and accounting for responsiveness design
 - Built user dashboard functionality in React while considering user requirements
