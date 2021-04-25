@@ -5,7 +5,7 @@ I'm an AWS certified professional and full-stack developer in Chicago. I special
 I have over 10 years experience in the insurance and service industries in a management capacity. Over that time I've developed critical-thinking, organizational, and communication skills.
 
 I’m looking for an opportunity where I can put my abilities to work for a mission I’m passionate about.  
-Check out my portfolio:globe_with_meridians:&nbsp;https://www.josemario.me/
+Check out my portfolio :globe_with_meridians:&nbsp;https://www.josemario.me/
 
 #
 
