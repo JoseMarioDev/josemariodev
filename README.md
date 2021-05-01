@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ### Projects &nbsp; 🔭
 
 
-#### MovieBase &nbsp;&bull;&nbsp; JavaScript | React | AWS | Docker |CirceCI | Terraform | Sentry &nbsp; :globe_with_meridians:&nbsp;[website](https://www.mymoviebase.com) :octocat:[github](http://www.github.com/josemariodev/movieapp)
+#### MovieBase &nbsp;&bull;&nbsp; JavaScript | React | AWS | CirceCI | Terraform &nbsp; :globe_with_meridians:&nbsp;[website](https://www.mymoviebase.com) :octocat:[github](http://www.github.com/josemariodev/movieapp)
 
 - Built front-end views using ReactJS, Redux, and Sass with fully responsive design
 - Following Infrastructure-as-Code model using Terraform, CircleCI for CI/CD, and Docker for containerization
