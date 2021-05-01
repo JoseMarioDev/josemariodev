@@ -46,13 +46,13 @@ Here are some ideas to get you started:
 - Built front-end views using ReactJS, Redux, and Sass with fully responsive design
 - Following Infrastructure-as-Code model using Terraform, CircleCI for CI/CD
 - Leveraged The Movie DB's API to deliver movie and television data to the front-end
-- Utilized AWS Services: S3, CloudFront, API Gateway, Lambda, Python, DynamoDB
+- Utilized AWS Services: S3, CloudFront, Route 53, Certificate Manager
 
 #### josemario.me &nbsp;&bull;&nbsp; JavaScript | React | AWS | CirceCI | Terraform &nbsp; :globe_with_meridians:&nbsp;[website](https://www.josemario.me) :octocat:[github](http://www.github.com/josemariodev/josemariodev-portfolio)
 
 - Portfolio website with detailed information about my projects and work history
 - Built front-end views using React and Sass with fully responsive design
-- Using AWS S3, CloudFront,API Gateway, Lambda w/Python, DynamoDB
+- Using AWS S3, CloudFront,API Gateway, Lambda w/Python, DynamoDB, Route 53, Certificate Manager
 - Terraform for Infrastructure-as-Code, and CircleCI for CI/CD
 
 #### ReVitalize &nbsp; &bull; &nbsp; React | GraphQL | Apollo | SASS &nbsp; :globe_with_meridians:&nbsp;[website](https://revitalizecommunity.netlify.app/) :octocat:[github](http://www.github.com/Revitalized-Playground)
