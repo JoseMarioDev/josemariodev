@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm an AWS certified professional and full-stack developer in Chicago. I specialize in JavaScript, Python, and cloud services. I'm a graduate of [Lambda School's web development program](https://www.lambdaschool.com), where I learned software development and CS fundamentals by working in teams to build real world projects.
+I'm an Associate TAM at AWS, currently enrolled in the Tech U program. I am 2x AWS certified and have a strong foundation of knowledge around AWS cloud services and the cloud ecosystem.
 
-I have over 10 years experience in the insurance and service industries in a management capacity. Over that time I've developed critical-thinking, organizational, and communication skills.
+I'm a graduate of [Lambda School's web development program](https://www.lambdaschool.com), where I learned software development and CS fundamentals by working in teams to build real world projects.  I have over 10 years experience in customer service and management. Over that time I've developed critical-thinking, organizational, and communication skills.
 
 Check out my portfolio :globe_with_meridians:&nbsp;https://www.josemario.me/
 
@@ -63,23 +63,27 @@ Here are some ideas to get you started:
 
 ### Work &nbsp; ⏰
 
+#### Amazon Web Services &nbsp;|&nbsp;&nbsp;Associate TAM
+
+- Work with customers of all sizes to execute on the Enterprise Support value proposition of AWS
+- Assist with operational support needs for customers already using AWS
+- Collaborate with experienced technical account managers to craft and share best-practices
+- Act as a technical liaison between customers, service engineering teams and support
+- Effectively represent AWS within a customer’s environment, and drive discussions regarding incidents, trade-offs and risk management
+
 #### Lambda School &nbsp;|&nbsp;&nbsp;Team Lead
 
 - Mentor students on how to learn effectively and solve programming problems
 - Reinforce technical concepts by facilitating small group study sessions and 1:1 daily check-ins
 - Provide daily live code reviews and lead feedback sessions on code improvements, readability, and best practices
 
-#### Majestic Star Casino &nbsp;|&nbsp;&nbsp; Supervisor
-
-- Managed daily operation of 21 table poker room including satisfying guests needs to maximize repeat business
-- Handled the scheduling of 20 employees ensuring appropriate stang levels
-- Instructed a training class of 10 new employees on policy and procedures and ensured they were competent on industry standards and customer service expectations
 
 #
 
 ### Certifications &nbsp;⚡
 
 - AWS Certified Solutions Architect Associate
+- AWS Certified Cloud Practitioner
 - CompTIA Network +
 - CompTIA A +
 
@@ -87,7 +91,7 @@ Here are some ideas to get you started:
 
 ### Find me online &nbsp; 📫
 
-[![Twitter: josemariodev](https://img.shields.io/twitter/follow/josemariodev?style=social)](https://twitter.com/josemariodev)
+[![Twitter: josemariodev](https://img.shields.io/twitter/follow/reinventingjose?style=social)](https://twitter.com/reinventingjose)
 [![Linkedin: josemariodev](https://img.shields.io/badge/-josemariodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josemariodev/)](https://www.linkedin.com/in/josemariodev/)
 [![GitHub imcodingideas](https://img.shields.io/github/followers/josemariodev?label=follow&style=social)](https://github.com/josemariodev)
 
