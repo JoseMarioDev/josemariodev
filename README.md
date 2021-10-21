@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an Associate TAM at AWS, currently enrolled in the Tech U program. I am 2x AWS certified and have a strong foundation of knowledge around AWS cloud services and the cloud ecosystem.
+I'm an Associate TAM at AWS, currently enrolled in the Tech U program. I am 3x AWS certified and have a strong foundation of knowledge around AWS cloud services and the cloud ecosystem.
 
 I'm a graduate of [Lambda School's web development program](https://www.lambdaschool.com), where I learned software development and CS fundamentals by working in teams to build real world projects.  I have over 10 years experience in customer service and management. Over that time I've developed critical-thinking, organizational, and communication skills.
 
@@ -82,6 +82,7 @@ Here are some ideas to get you started:
 
 ### Certifications &nbsp;⚡
 
+- AWS Certfied Developer Associate
 - AWS Certified Solutions Architect Associate
 - AWS Certified Cloud Practitioner
 - CompTIA Network +
