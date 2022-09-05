@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 ### Find me online &nbsp; 📫
 
 [![Twitter: JoseintheCloud](https://img.shields.io/twitter/follow/joseinthecloud?style=social)](https://twitter.com/joseinthecloud)
-[![Linkedin: josemariodev](https://img.shields.io/badge/-josemariodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josemariodev/)](https://www.linkedin.com/in/josemariodev/)
+[![Linkedin: JoseintheCloud](https://img.shields.io/badge/-joseinthecloud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseinthecloud/)](https://www.linkedin.com/in/joseinthecloud/)
 [![GitHub imcodingideas](https://img.shields.io/github/followers/josemariodev?label=follow&style=social)](https://github.com/josemariodev)
 
 [![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=josemariodev&show_icons=true&theme=prussian)](https://github.com/josemariodev/github-readme-stats)
