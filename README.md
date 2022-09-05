@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 
 ### Find me online &nbsp; 📫
 
-[![Twitter: josemariodev](https://img.shields.io/twitter/follow/reinventingjose?style=social)](https://twitter.com/reinventingjose)
+[![Twitter: JoseintheCloud](https://img.shields.io/twitter/follow/joseinthecloud?style=social)](https://twitter.com/joseinthecloud)
 [![Linkedin: josemariodev](https://img.shields.io/badge/-josemariodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josemariodev/)](https://www.linkedin.com/in/josemariodev/)
 [![GitHub imcodingideas](https://img.shields.io/github/followers/josemariodev?label=follow&style=social)](https://github.com/josemariodev)
 
